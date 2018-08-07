@@ -5,6 +5,10 @@ Software Developer and Teacher Actively Pursuing New Opportunities
 * [GitHub](https://github.com/WayneRyan)
 * [Hacker Rank](https://www.hackerrank.com/wryan42675)
 * [Meetup](https://www.meetup.com/members/248351622/)
+* A few sample web pages, still a work in progress. I'm working on these to update my web-design skills and learn AWS.
+   * [Simple Page](http://wayneryan.net/)
+   * [Simple Form](http://wayneryan.net/form.html)
+   * [Responsive Page](http://wayneryan.net/landing.html)
 
 
 # Useful Links
