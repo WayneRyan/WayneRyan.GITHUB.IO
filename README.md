@@ -1,4 +1,4 @@
-Software Developer and Teacher Actively Pursuing New Opportunities
+Software Developer 
 # My online profile
 * [Linkedin](https://www.linkedin.com/in/wayne-ryan-b276103/)
 * [Resume](https://www.visualcv.com/wayne-joseph-ryan)
