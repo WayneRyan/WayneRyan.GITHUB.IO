@@ -1,7 +1,6 @@
 Software Developer 
 # My online profile
 * [Linkedin](https://www.linkedin.com/in/wayne-ryan-b276103/)
-* [Resume](https://www.visualcv.com/wayne-joseph-ryan)
 * [GitHub](https://github.com/WayneRyan)
 * [Hacker Rank](https://www.hackerrank.com/wryan42675)
 * [Meetup](https://www.meetup.com/members/248351622/)
